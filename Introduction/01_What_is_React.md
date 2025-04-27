@@ -1,6 +1,5 @@
 ### React + Vite + Tailwind CSS Setup Notes
-```md
-
+```
 ## 📘 What is React?
 
 React is a JavaScript library for building user interfaces. It allows developers to create **reusable UI components**, manage state efficiently, and render changes dynamically.
